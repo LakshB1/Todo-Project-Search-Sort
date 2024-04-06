@@ -1,0 +1,141 @@
+body {
+  font-family: 'poppins';
+}
+
+
+select {
+  width: 104%;
+  height: 36px;
+
+}
+
+.date {
+  padding: 3px;
+
+}
+
+.username {
+  padding: 6px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+table {
+  margin-left: 10px;
+  border-radius: 5px;
+  width: 600px !important;
+}
+
+span {
+  background: transparent !important;
+}
+
+.button {
+  padding: 10px 33px !important;
+  border-radius: 7px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+.parent {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  color: rgb(242, 239, 239);
+  border-radius: 6px;
+  text-align: center;
+}
+
+.parentsearchsort {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.search {
+  padding: 8px;
+  width: 400px;
+  border-radius: 7px;
+  border: 1px solid thistle;
+  font-size: 18px;
+}
+
+.pagination {
+  margin: 30px;
+  float: right;
+}
+
+.parent h3 {
+  text-align: start;
+}
+
+.heading {
+  font-size: 34px !important;
+  padding: 8px;
+}
+
+textarea {
+  width: 247px;
+  height: 82px;
+  border-radius: 6px;
+}
+
+.main {
+  display: flex;
+}
+
+h3,
+h1,
+h2 {
+  font-weight: 720 !important;
+}
+
+.btn {
+  border: none;
+  float: right;
+  width: 30px;
+  height: 32px;
+  cursor: pointer;
+  font-size: 19px;
+  border-radius: 3px;
+  background-color: transparent;
+}
+
+.table1 {
+  border-radius: 5px;
+}
+
+table tr td h3 {
+  font-size: 19px;
+}
+
+.parent {
+  float: left;
+  margin: 20px 48px;
+}
+
+table {
+  background-color: rgba(114, 114, 114, 0.241);
+}
+
+.taskcategory {
+  font-size: 27px !important;
+}
+
+.parent h3 {
+  font-size: 23px !important;
+}
+
+.sort {
+  width: 300px;
+  border-radius: 3px;
+  background-color: rgba(140, 13, 13, 0.465);
+  color: aqua;
+  font-size: 16px;
+  box-shadow: 0px 1px 1px 1px black;
+}
